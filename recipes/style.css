@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    font-family: 'Dekko', 'Times New Roman', verdana;
+    font-size-adjust: 22px;
+}
+h1 {
+    color:chocolate;
+    font-size: 46px;
+    text-align: center;
+    font-family:'Dekko', 'Times New Roman', Verdana;
+}
+
+.test {
+    font-weight: bold;
+    font-family: 'Dekko', 'Times New Roman', Verdana;
+    font-size: 22px;
+}
